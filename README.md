@@ -11,10 +11,10 @@ app
   .engine('handlebars', exphbsHot())
 ```
 
-Enhances an express template engine with hotloading. The DOM with be dynamically updated on changes to your templates, no reload necessary.
+Enhances an express template engine with hotloading. Without refreshing the page, The DOM gets updated whenever your underlying templates change.
 
-Build on top of [hotloader](https://github.com/des-des/hotloader), express-engine-hotloader uses sockets and and a virtual dom to achieve super fast html hotloading.
+Built on top of [hotloader](https://github.com/des-des/hotloader), express-engine-hotloader uses sockets and and a virtual DOM to achieve super fast html hotloading.
 
 ##### No configuration required. Made with :heart: by [des-des](https://github.com/des-des)
 
-###### Contributions welcome :sparkles: 
+###### Contributions welcome :sparkles:

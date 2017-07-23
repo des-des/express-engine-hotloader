@@ -1,6 +1,6 @@
 {
   "name": "express-engine-hotloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "enhances express template engine with hotloader",
   "main": "index.js",
   "files": [
