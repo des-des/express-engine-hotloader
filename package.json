@@ -30,5 +30,9 @@
   "homepage": "https://github.com/des-des/expess-engine-hotloader#readme",
   "dependencies": {
     "hotloader": "^0.3.0"
+  },
+  "devDependencies": {
+    "pre-commit": "^1.2.2",
+    "standard": "^10.0.2"
   }
 }
