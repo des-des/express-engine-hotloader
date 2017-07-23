@@ -1,0 +1,34 @@
+{
+  "name": "expess-engine-hotloader",
+  "version": "1.0.0",
+  "description": "enhances express template engine with hotloader",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/des-des/express-handlebars-hotloader"
+  },
+  "keywords": [
+    "virtual-dom",
+    "livereload",
+    "hot-reload",
+    "express",
+    "handlebars",
+    "template",
+    "view"
+  ],
+  "author": "des-des",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/des-des/expess-engine-hotloader/issues"
+  },
+  "homepage": "https://github.com/des-des/expess-engine-hotloader#readme",
+  "dependencies": {
+    "hotloader": "^0.3.0"
+  }
+}
