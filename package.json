@@ -1,6 +1,6 @@
 {
   "name": "express-engine-hotloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "enhances express template engine with hotloader",
   "main": "index.js",
   "files": [
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "/des-des/express-handlebars-hotloader"
+    "url": "git+https://github.com/des-des/express-engine-hotloader.git"
   },
   "keywords": [
     "virtual-dom",
