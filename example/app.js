@@ -1,4 +1,4 @@
-const exphbs  = require('express-handlebars')
+const exphbs = require('express-handlebars')
 const withHotloader = require('../')
 
 var app = require('express')()
