@@ -1,5 +1,5 @@
 {
-  "name": "expess-engine-hotloader",
+  "name": "express-engine-hotloader",
   "version": "1.0.0",
   "description": "enhances express template engine with hotloader",
   "main": "index.js",
@@ -29,9 +29,9 @@
   "author": "des-des",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/des-des/expess-engine-hotloader/issues"
+    "url": "https://github.com/des-des/express-engine-hotloader/issues"
   },
-  "homepage": "https://github.com/des-des/expess-engine-hotloader#readme",
+  "homepage": "https://github.com/des-des/express-engine-hotloader#readme",
   "dependencies": {
     "hotloader": "^0.3.0"
   },
