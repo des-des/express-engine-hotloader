@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/des-des/express-engine-hotloader#readme",
   "dependencies": {
-    "hotloader": "^0.3.0"
+    "hotloader": "^1.0.0"
   },
   "devDependencies": {
     "pre-commit": "^1.2.2",
