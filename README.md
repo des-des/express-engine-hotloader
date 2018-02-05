@@ -7,10 +7,10 @@ const app = require('express')()
 const server = require('http').Server(app)
 
 const exphbs  = require('express-handlebars')
-const exphbsHot = require('express-engine-hotloader')(server, exphbs)
+const exphbsHot = require('express-engine-hotloader')(server, exphbs())
 
 app
-  .engine('handlebars', exphbsHot())
+  .engine('handlebars', exphbsHot)
 ```
 
 Enhances an express template engine with hotloading. Without refreshing the page, The DOM gets updated whenever your underlying templates change.
