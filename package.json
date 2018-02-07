@@ -1,6 +1,6 @@
 {
   "name": "express-engine-hotloader",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "enhances express template engine with hotloader",
   "main": "index.js",
   "files": [
@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/des-des/express-engine-hotloader#readme",
   "dependencies": {
-    "hotloader": "^1.1.1"
+    "hotloader": "^1.1.2"
   },
   "devDependencies": {
     "pre-commit": "^1.2.2",
